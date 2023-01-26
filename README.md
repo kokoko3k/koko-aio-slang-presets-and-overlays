@@ -13,7 +13,7 @@ Collection of extra or third-party overlays not included in main koko-aio repo
 	Every user who want to submit their overlay presets will have his<br>
 	own folder in the main directory.<br>
 	Under each directory user there will be other subdirectories, one per preset.<br>
-	Finally, the preset directory will contain the preset file and the textures<br>
+	Finally, the preset directory will contain the preset file, textures (screenshots)<br>
 	needed by it, eg: if the users where Peter,Egon and Ray:<br>
 
 	PeterVenkman/
@@ -21,10 +21,12 @@ Collection of extra or third-party overlays not included in main koko-aio repo
 			peter-preset.slangp
 			ecto1.png
 			slimer.png
+			screenshot.png
 		vigo/
 			user2-preset.slangp
 			ecto2.png
 			gozer.png
+			screenshot.jpg
 	EgonSpengler/
 		preset1/
 			user2-preset.slangp
