@@ -1,0 +1,7 @@
+#reference "../../monitor-bloom-bezel.slangp"
+BEZEL_CON = "0.470001"
+DO_BG_IMAGE = "1.000000"
+BG_IMAGE_OVER = "1.000000"
+AMBI_FALLOFF = "3.000000"
+AMBI_POWER = "4.800000"
+bg_over = "bg_over.png"
