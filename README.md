@@ -1,5 +1,5 @@
 # koko-aio-slang-overlays
-Collection of extra or third-party overlays not included in main koko-aio repo
+Collection of extra or third-party presets and overlays not included in main koko-aio repo
 
 		
 **Installation:**<br>
