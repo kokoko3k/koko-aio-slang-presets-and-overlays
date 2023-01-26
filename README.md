@@ -2,7 +2,7 @@
 Collection of extra or third-party overlays not included in main koko-aio repo
 
 		
-**Installation:**
+**Installation:**<br>
 	Pick a top level directory named as the user who submitted it
 	and place it in the same directory containing official koko-aio presets.
 	This will work for koko-aio downloaded from the main repo or
@@ -36,5 +36,5 @@ Collection of extra or third-party overlays not included in main koko-aio repo
 			texture1.png
 			texture2.png
 
-	The slangp preset will reference a parent preset 2 level up, eg:
-		#reference "../../monitor-bloom-bezel.slangp"
+The slangp preset will reference a parent preset 2 level up, eg:<br>
+```#reference "../../monitor-bloom-bezel.slangp"```
