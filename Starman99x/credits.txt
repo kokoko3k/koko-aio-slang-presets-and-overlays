@@ -1,0 +1,6 @@
+@exodus123456 (Libretro) is the one who made the base overlay, and I modified it for koko-aio.
+
+Original overlay source:
+https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192
+
+My account at Libretro forums: @Starman99x
