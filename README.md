@@ -13,6 +13,9 @@ https://github.com/estefan3112/koko-aio-slang
 
 
 **How to contribute, Repository Structure:**<br>
+	The following is just a guideline, the main requisite is that the<br>
+	installation method performed by the final user remain the same (see above).
+	--
 	Every user who want to submit their overlay presets will have his<br>
 	own folder in the main directory.<br>
 	Under each directory user there will be other subdirectories, one per preset.<br>
