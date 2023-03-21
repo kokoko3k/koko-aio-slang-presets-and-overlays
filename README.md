@@ -12,7 +12,7 @@ https://github.com/estefan3112/koko-aio-slang
 	for the one shipped with retroarch.<br>
 
 
-**How to contribute, Repository Structure:**<br>
+**How to contribute, Repository Structure guidelines:**<br>
 	The following is just a guideline, the main requisite is that the<br>
 	installation method performed by the final user remain the same (see above).
 	--
