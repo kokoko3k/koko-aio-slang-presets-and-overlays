@@ -1,0 +1,6 @@
+#reference "../monitor-bloom-bezel.slangp"
+BEZEL_CON = "1.000000"
+DO_BG_IMAGE = "1.000000"
+BG_IMAGE_OVER = "1.000000"
+DO_AMBILIGHT = "0.000000"
+bg_over = "CRT1-DARK.png"
