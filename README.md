@@ -1,9 +1,11 @@
 # koko-aio-slang-overlays
 Collection of extra or third-party presets and overlays not included in main koko-aio repo
 
-estefan3112 Has his own koko-aio fork with additiona bezels you may be interested in:<br>
+estefan3112 Has his own koko-aio fork with additional bezels you may be interested in:<br>
 https://github.com/estefan3112/koko-aio-slang
 
+Starman99x runs his own repo with additional bezel and presets here:
+https://github.com/Starman99x/koko-aio-presets-and-overlays
 		
 **Installation:**<br>
 	Pick a top level directory named as the user who submitted it<br>
