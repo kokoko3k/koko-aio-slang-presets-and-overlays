@@ -54,6 +54,6 @@ https://github.com/Starman99x/koko-aio-presets-and-overlays
 			texture2.png
 
 The slangp preset will reference a parent preset 2 level up, eg:<br>
-```#reference "../../Presers-4.1/monitor-bloom-bezel.slangp"```
-or
-```#reference "../../Presers-ng/other-preset.slangp"```
+```#reference "../../Presers-4.1/monitor-bloom-bezel.slangp"```<br>
+or<br>
+```#reference "../../Presers-ng/other-preset.slangp"```<br>
