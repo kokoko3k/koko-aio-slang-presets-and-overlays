@@ -12,7 +12,14 @@ https://github.com/Starman99x/koko-aio-presets-and-overlays
 	and place it in the same directory containing official koko-aio presets.<br>
 	This will work for koko-aio downloaded from the main repo or<br>
 	for the one shipped with retroarch.<br>
-
+	<br>
+	Example, for Duimon, presets, the final structure will look like this: <br>
+		
+		Duimon/
+		Presets-4.1/
+		Presets-ng/
+		[..]
+		
 
 **How to contribute, Repository Structure guidelines:**<br>
 	The following is just a guideline, the main requisite is that the<br>
