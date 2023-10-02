@@ -2,7 +2,7 @@
 # // Released with permission from original author - https://github.com/Duimon
 # // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../tv-aperturegrille-bloom-bezel.slangp"
+#reference "../../Presets-4.1/tv-aperturegrille-bloom-bezel.slangp"
 
            bg_over = "../textures/logo_PC-FX.png"
  bg_over_linear    = "true"
