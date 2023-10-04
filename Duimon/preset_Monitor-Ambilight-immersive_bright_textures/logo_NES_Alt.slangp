@@ -2,9 +2,9 @@
 # // Released with permission from original author - https://github.com/Duimon
 # // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../replacemeslangp"
+#reference "../../Presets-ng/Monitor-Ambilight-immersive.slangp"
 
-           bg_over = "../replacemetexture"
+           bg_over = "../textures/logo_NES_Alt.png"
  bg_over_linear    = "true"
  bg_over_wrap_mode = "clamp_to_border"
 
@@ -21,12 +21,8 @@ AMBI_FALLOFF = "0.150000"
 AMBI_POWER = "0.000000"
 AMBI_INT_OFFSET = "-0.000000"
 AMBI_STRETCH = "0.600000"
+AMBI_GAMMA = "2.200000"
 
-#Bright textures:
-#AMBI_GAMMA = "2.200000"
-
-#Dark textures
-AMBI_GAMMA = "0.5"
 
 
 BEZEL_R = "-0.19"
