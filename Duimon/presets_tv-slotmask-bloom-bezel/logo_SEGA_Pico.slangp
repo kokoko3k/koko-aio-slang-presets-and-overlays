@@ -2,9 +2,9 @@
 # // Released with permission from original author - https://github.com/Duimon
 # // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../replacemeslangp"
+#reference "../../Presets-4.1/tv-slotmask-bloom-bezel.slangp"
 
-           bg_over = "../replacemetexture"
+           bg_over = "../textures/logo_SEGA_Pico.png"
  bg_over_linear    = "true"
  bg_over_wrap_mode = "clamp_to_border"
 
@@ -27,9 +27,6 @@ BEZEL_R = "-0.19"
 BEZEL_G = "-0.19"
 BEZEL_B = "-0.19"
 BEZEL_CON = "2.00"
-
-#BEZEL_INNER_ZOOM = "-0.17000"
-BEZEL_INNER_ZOOM = "-0.162000"
-
+BEZEL_INNER_ZOOM = "-0.17"
 BEZEL_FRAME_ZOOM = "0.042000"
 

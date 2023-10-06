@@ -2,11 +2,11 @@
 
 # Start me from the directory containing "textures" subdir.
 
-presets_reference_dir='Presets-ng\/'
+presets_reference_dir='Presets-4.1\/'
 #presets="monitor-slotmask-bloom-bezel tv-aperturegrille-bloom-bezel"
-presets="Monitor-Ambilight-immersive"
+presets="tv-slotmask-bloom-bezel"
 
-preset_prefix="preset"
+preset_prefix="presets"
 
 for preset in $presets ; do
 	mkdir "$preset_prefix"_"$preset"
