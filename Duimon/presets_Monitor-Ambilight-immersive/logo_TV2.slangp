@@ -2,9 +2,9 @@
 # // Released with permission from original author - https://github.com/Duimon
 # // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../replacemeslangp"
+#reference "../../Presets-ng/Monitor-Ambilight-immersive.slangp"
 
-           bg_over = "../replacemetexture"
+           bg_over = "../textures/logo_TV2.png"
  bg_over_linear    = "true"
  bg_over_wrap_mode = "clamp_to_border"
 
