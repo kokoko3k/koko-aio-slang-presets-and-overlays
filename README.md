@@ -15,7 +15,7 @@ https://github.com/Starman99x/koko-aio-presets-and-overlays
 	<br>
 	Example, for Duimon, presets, the final structure will look like this: <br>
 		
-		Duimon/
+		Duimon_additional_presets/
 		Presets-4.1/
 		Presets-ng/
 		[..]
@@ -31,7 +31,7 @@ https://github.com/Starman99x/koko-aio-presets-and-overlays
 	Finally, the preset directory will contain the preset file, textures (screenshots)<br>
 	needed by it, eg: if the users where Peter,Egon and Ray:<br>
 
-	PeterVenkman/
+	PeterVenkman_additional_presets/
 		zool/
 			peter-preset.slangp
 			ecto1.png
@@ -42,12 +42,12 @@ https://github.com/Starman99x/koko-aio-presets-and-overlays
 			ecto2.png
 			gozer.png
 			screenshot.jpg
-	EgonSpengler/
+	EgonSpengler_additional_presets/
 		preset1/
 			user2-preset.slangp
 			texture1.png
 			texture2.png
-	RayStantz/
+	RayStantz_additional_presets/
 		preset1/
 			user2-preset.slangp
 			texture1.png
