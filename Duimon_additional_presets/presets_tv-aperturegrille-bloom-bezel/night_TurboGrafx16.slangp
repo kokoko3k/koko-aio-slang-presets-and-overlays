@@ -12,3 +12,6 @@ DO_BG_IMAGE        = "1.0"
 BG_IMAGE_OVER      = "1.0"
 BG_IMAGE_WRAP_MODE = "1.0"
 DO_AMBILIGHT       = "0.0"
+
+BG_IMAGE_OFFX = "0.0" 
+BG_IMAGE_OFFY = "0.0"
