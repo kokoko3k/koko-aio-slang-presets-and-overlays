@@ -1,17 +1,7 @@
-# // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
-# // Released with permission from original author - https://github.com/Duimon
-# // ----------------------------------------------------------------------------------------------------------------
 
-#reference "../../Presets-4.1/tv-aperturegrille-bloom-bezel.slangp"
-
-           bg_over = "../textures/logo_CPC6128.png"
- bg_over_linear    = "true"
- bg_over_wrap_mode = "clamp_to_border"
-
-DO_BG_IMAGE        = "1.0"
-BG_IMAGE_OVER      = "1.0"
-BG_IMAGE_WRAP_MODE = "1.0"
-DO_AMBILIGHT       = "0.0"
-
-BG_IMAGE_OFFX = "0.0" 
-BG_IMAGE_OFFY = "0.0"
+	# // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+	# // Released with permission from original author - https://github.com/Duimon
+	# // ----------------------------------------------------------------------------------------------------------------
+	
+#reference "../proxy-tv-aperturegrille-bloom-bezel.slangp"
+bg_over = "../textures/logo_CPC6128.png"
