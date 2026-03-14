@@ -5,7 +5,7 @@ estefan3112 Has his own koko-aio fork with additional bezels you may be interest
 https://github.com/estefan3112/koko-aio-slang
 
 Starman99x runs his own repo with additional bezel and presets here:
-https://github.com/Starman99x/koko-aio-presets-and-overlays
+https://github.com/Starman99x/Starman99x-shader-presets
 		
 **Installation:**<br>
 	Pick a top level directory named as the user who submitted it<br>
